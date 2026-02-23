@@ -15,7 +15,7 @@ Ce site regroupe des **résumés de cours**, **fiches pratiques** et **commandes
 
 ---
 
-[Site de note Technicien Supérieur Système et Réseaux](https://yowan-gh.github.io/TSSR/#/)
+[Site de note Technicien Supérieur Système et Réseaux](https://glitsune.github.io/TSSR/#/)
 
 ---
 
